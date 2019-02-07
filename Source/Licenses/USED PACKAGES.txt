@@ -1,0 +1,2 @@
+Qt Framework - LGPLv3
+QCustomPlot - GPL
